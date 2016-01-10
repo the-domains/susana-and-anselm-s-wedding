@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T21:22:01.173Z'
-dateModified: '2016-01-10T21:21:52.267Z'
+datePublished: '2016-01-10T21:49:42.306Z'
+dateModified: '2016-01-10T21:49:38.719Z'
 title: The Townhall
 author: []
+sourcePath: _posts/2016-01-10-the-townhall.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-the-townhall.md
-published: true
 url: the-townhall/index.html
 _type: Article
 
