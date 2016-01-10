@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-10T21:05:34.204Z'
-dateModified: '2016-01-10T21:05:14.547Z'
+datePublished: '2016-01-10T21:10:26.958Z'
+dateModified: '2016-01-10T21:09:56.781Z'
 title: "Susana & Anselm's Wedding"
 author: []
+sourcePath: _posts/2016-01-10-susana-and-anselms-wedding.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-susana-and-anselms-wedding.md
-published: true
 url: susana-and-anselms-wedding/index.html
 _type: Article
 
