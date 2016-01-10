@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T21:31:42.000Z'
-dateModified: '2016-01-10T21:31:14.481Z'
+datePublished: '2016-01-10T21:49:02.470Z'
+dateModified: '2016-01-10T21:48:56.443Z'
 title: Photo Shoot
 author: []
+sourcePath: _posts/2016-01-10-photo-shoot.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-10-photo-shoot.md
-published: true
 url: photo-shoot/index.html
 _type: Article
 
