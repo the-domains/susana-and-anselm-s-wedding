@@ -4,7 +4,7 @@
         <description><![CDATA[Susana & Anselm's Wedding]]></description>
         <link>https://thegrid.ai/susana-and-anselm-s-wedding/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 21:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 21:16:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/susana-and-anselm-s-wedding/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Susana & Anselm's Wedding]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/susana-and-anselm-s-wedding/susana-and-anselms-wedding/index.html</link>
             <guid isPermaLink="false">ab14396c-5358-4e42-85bb-d1dae0958d75</guid>
             <pubDate>Sun, 10 Jan 2016 21:10:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Singapore bunch]]></title>
+            <description><![CDATA[<article><h1>The Singapore bunch</h1><p>Some photos from Carl from our Singapore friends</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/272fefcd1a0d4924e635906640684dc8b8cf1e12.jpg"></article>]]></description>
+            <link>https://thegrid.ai/susana-and-anselm-s-wedding/the-singapore-bunch/index.html</link>
+            <guid isPermaLink="false">3d431708-e98c-4c6b-8372-1f93cdf3c2e1</guid>
+            <pubDate>Sun, 10 Jan 2016 21:16:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
